@@ -1,23 +1,27 @@
 [
   {
+    "bar_id": 1,
     "coords": [43.607583, 1.449473],
     "name": "Le Cri de la Truffe",
     "today": "Jazz",
     "tomorrow": "Blues"
   },
   {
+    "bar_id": 2, 
     "coords": [43.601747, 1.443149],
     "name": "Le Saint des Seins",
     "today": "Rock",
     "tomorrow": "Indie"
   },
   {
+    "bar_id": 3,
     "coords": [43.607291, 1.447020],
     "name": "Le Taquin",
     "today": "Chanson française",
     "tomorrow": "Pop"
   },
   {
+    "bar_id": 4,
     "coords": [43.604939, 1.445900],
     "name": "Le Bikini",
     "today": "Electro",
