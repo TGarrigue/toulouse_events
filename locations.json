@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Etablissement 1",
+        "address": "15 Rue des Couteliers, 31000 Toulouse, France",
+        "hours": "09:00 - 17:00",
+        "lng": 1.441046,
+        "lat": 43.604615
+    },
+    {
+        "name": "Etablissement 2",
+        "address": "4 Rue du Taur, 31000 Toulouse, France",
+        "hours": "10:00 - 18:00",
+        "lng": 1.440159,
+        "lat": 43.604522
+    },
+    {
+        "name": "Etablissement 3",
+        "address": "5 Rue de Metz, 31000 Toulouse, France",
+        "hours": "11:00 - 19:00",
+        "lng": 1.438774,
+        "lat": 43.601737
+    },
+    {
+        "name": "Etablissement 4",
+        "address": "8 Rue Ozenne, 31000 Toulouse, France",
+        "hours": "12:00 - 20:00",
+        "lng": 1.442564,
+        "lat": 43.599741
+    },
+    {
+        "name": "Etablissement 5",
+        "address": "14 Place Esquirol, 31000 Toulouse, France",
+        "hours": "13:00 - 21:00",
+        "lng": 1.442707,
+        "lat": 43.601317
+    }
+]
