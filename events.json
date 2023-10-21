@@ -1,333 +1,317 @@
 {
-    "20_10_2023": {
-        "Dj set": [
-            {
-                "event_name": "Funky Party",
-                "location": {
-                    "location_name": "Connexion",
-                    "location_address": "8 Rue Gabriel Péri",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.6055356,
-                    "location_lng": 1.454485,
-                    "location_instagram": "connexionlive"
-                },
-                "start_time": "21:00",
-                "end_time": "02:00",
-                "price": "10€",
-                "details": {
-                    "styles": [
-                        "disco",
-                        "house",
-                        "funk"
-                    ],
-                    "artists": [
-                        "dagroov",
-                        "dj snake"
-                    ]
-                }
+    "Dj set": [
+        {
+            "event_name": "Funky Party",
+            "location": {
+                "location_name": "Connexion",
+                "location_address": "8 Rue Gabriel Péri",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.6055356,
+                "location_lng": 1.454485,
+                "location_instagram": "connexionlive"
             },
-            {
-                "event_name": "Electro Night",
-                "location": {
-                    "location_name": "Metronum",
-                    "location_address": "Rond-Point Madame de Mondonville",
-                    "location_postcode": 31200,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.6357587,
-                    "location_lng": 1.4300158,
-                    "location_instagram": "le_metronum"
-                },
-                "start_time": "22:00",
-                "end_time": "04:00",
-                "price": "15€",
-                "details": {
-                    "styles": [
-                        "techno",
-                        "electro"
-                    ],
-                    "artists": [
-                        "TechMan",
-                        "WaveCatcher"
-                    ]
-                }
+            "start_time": "2023-10-20 21:00",
+            "end_time": "2023-10-21 02:00",
+            "price": "10€",
+            "details": {
+                "styles": [
+                    "disco",
+                    "house",
+                    "funk"
+                ],
+                "artists": [
+                    "dagroov",
+                    "dj snake"
+                ]
             }
-        ],
-        "Concert": [
-            {
-                "event_name": "Symphonie en Rose",
-                "location": {
-                    "location_name": "Halle aux Grains",
-                    "location_address": "1 Place Dupuy",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.6026018,
-                    "location_lng": 1.4519915,
-                    "location_instagram": "halleauxgrains"
-                },
-                "start_time": "20:00",
-                "end_time": "23:00",
-                "price": "30€",
-                "details": {
-                    "styles": [
-                        "classique"
-                    ],
-                    "artists": [
-                        "Orchestre de Toulouse",
-                        "Maestro Dupont"
-                    ]
-                }
+        },
+        {
+            "event_name": "Electro Night",
+            "location": {
+                "location_name": "Metronum",
+                "location_address": "Rond-Point Madame de Mondonville",
+                "location_postcode": 31200,
+                "location_city": "Toulouse",
+                "location_lat": 43.6357587,
+                "location_lng": 1.4300158,
+                "location_instagram": "le_metronum"
             },
-            {
-                "event_name": "Rock Toulousain",
-                "location": {
-                    "location_name": "Bikini",
-                    "location_address": "Rue Théodore Monod",
-                    "location_postcode": 31520,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.5615731,
-                    "location_lng": 1.4684136,
-                    "location_instagram": "le_bikini_toulouse"
-                },
-                "start_time": "19:30",
-                "end_time": "00:00",
-                "price": "25€",
-                "details": {
-                    "styles": [
-                        "rock",
-                        "pop"
-                    ],
-                    "artists": [
-                        "Les Toulousains",
-                        "Groupe 31"
-                    ]
-                }
+            "start_time": "2023-10-20 22:00",
+            "end_time": "2023-10-21 04:00",
+            "price": "15€",
+            "details": {
+                "styles": [
+                    "techno",
+                    "electro"
+                ],
+                "artists": [
+                    "TechMan",
+                    "WaveCatcher"
+                ]
             }
-        ],
-        "Diffusion match": [
-            {
-                "event_name": "Diffusion coupe du monde",
-                "location": {
-                    "location_name": "Le péri",
-                    "location_address": "Rue Jeanne d'Arc",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.6048829,
-                    "location_lng": 1.4482903,
-                    "location_instagram": "leperitoulouse"
-                },
-                "start_time": "21:00",
-                "end_time": "",
-                "price": "",
-                "details": {
-                    "match": "Nouvelle-Zélande - Argentine"
-                }
+        },
+        {
+            "event_name": "Salsa Night",
+            "location": {
+                "location_name": "La Dernière Chance",
+                "location_address": "14 Rue des Sept Troubadours",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.608315,
+                "location_lng": 1.434897,
+                "location_instagram": "ladernierechance"
+            },
+            "start_time": "2023-10-21 20:00",
+            "end_time": "2023-10-22 01:00",
+            "price": "5€",
+            "details": {
+                "styles": [
+                    "salsa",
+                    "latin"
+                ],
+                "artists": [
+                    "LatinoGroove",
+                    "Dj SalsaMan"
+                ]
             }
-        ],
-        "Pièce de théâtre": [
-            {
-                "event_name": "L'écho des ruelles",
-                "location": {
-                    "location_name": "Théâtre du Capitole",
-                    "location_address": "Place du Capitole",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.604462,
-                    "location_lng": 1.444246,
-                    "location_instagram": "theatreducapitole"
-                },
-                "start_time": "20:00",
-                "end_time": "22:30",
-                "price": "20€",
-                "details": {
-                    "genre": "Drame",
-                    "directeur": "Luc Fontaine",
-                    "acteurs": [
-                        "Marie Dupuis",
-                        "Paul Bertrand"
-                    ]
-                }
+        }
+    ],
+    "Concert": [
+        {
+            "event_name": "Symphonie en Rose",
+            "location": {
+                "location_name": "Halle aux Grains",
+                "location_address": "1 Place Dupuy",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.6026018,
+                "location_lng": 1.4519915,
+                "location_instagram": "halleauxgrains"
+            },
+            "start_time": "2023-10-20 20:00",
+            "end_time": "2023-10-20 23:00",
+            "price": "30€",
+            "details": {
+                "styles": [
+                    "classique"
+                ],
+                "artists": [
+                    "Orchestre de Toulouse",
+                    "Maestro Dupont"
+                ]
             }
-        ],
-        "Soirée à thème": [
-            {
-                "event_name": "Nuit des étoiles",
-                "location": {
-                    "location_name": "Observatoire de Jolimont",
-                    "location_address": "17 Rue Jolimont",
-                    "location_postcode": 31500,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.6058967,
-                    "location_lng": 1.4637383,
-                    "location_instagram": "observatoirejolimont"
-                },
-                "start_time": "20:00",
-                "end_time": "00:00",
-                "price": "Free",
-                "details": {
-                    "description": "Observez les étoiles et les planètes dans le ciel nocturne de Toulouse."
-                }
+        },
+        {
+            "event_name": "Rock Toulousain",
+            "location": {
+                "location_name": "Bikini",
+                "location_address": "Rue Théodore Monod",
+                "location_postcode": 31520,
+                "location_city": "Toulouse",
+                "location_lat": 43.5615731,
+                "location_lng": 1.4684136,
+                "location_instagram": "le_bikini_toulouse"
+            },
+            "start_time": "2023-10-20 19:30",
+            "end_time": "2023-10-21 00:00",
+            "price": "25€",
+            "details": {
+                "styles": [
+                    "rock",
+                    "pop"
+                ],
+                "artists": [
+                    "Les Toulousains",
+                    "Groupe 31"
+                ]
             }
-        ],
-        "Open air": [
-            {
-                "event_name": "Cinéma en plein air",
-                "location": {
-                    "location_name": "Prairie des Filtres",
-                    "location_address": "Allée de Brienne",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.597556,
-                    "location_lng": 1.433223,
-                    "location_instagram": "prairiedesfiltres"
-                },
-                "start_time": "20:30",
-                "end_time": "23:00",
-                "price": "Free",
-                "details": {
-                    "film": "Les Amours d'un été"
-                }
+        },
+        {
+            "event_name": "Chansons françaises",
+            "location": {
+                "location_name": "Bar Basque",
+                "location_address": "1 Rue Valade",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.603729,
+                "location_lng": 1.439828,
+                "location_instagram": "barbasquetoulouse"
+            },
+            "start_time": "2023-10-21 19:00",
+            "end_time": "2023-10-21 21:00",
+            "price": "Free",
+            "details": {
+                "styles": [
+                    "chanson française"
+                ],
+                "artists": [
+                    "Jeanne Lachaise",
+                    "Pierre Montagne"
+                ]
             }
-        ]
-    },
-    "21_10_2023": {
-        "Dj set": [
-            {
-                "event_name": "Salsa Night",
-                "location": {
-                    "location_name": "La Dernière Chance",
-                    "location_address": "14 Rue des Sept Troubadours",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.608315,
-                    "location_lng": 1.434897,
-                    "location_instagram": "ladernierechance"
-                },
-                "start_time": "20:00",
-                "end_time": "01:00",
-                "price": "5€",
-                "details": {
-                    "styles": [
-                        "salsa",
-                        "latin"
-                    ],
-                    "artists": [
-                        "LatinoGroove",
-                        "Dj SalsaMan"
-                    ]
-                }
+        }
+    ],
+    "Diffusion match": [
+        {
+            "event_name": "Diffusion coupe du monde",
+            "location": {
+                "location_name": "Le péri",
+                "location_address": "Rue Jeanne d'Arc",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.6048829,
+                "location_lng": 1.4482903,
+                "location_instagram": "leperitoulouse"
+            },
+            "start_time": "2023-10-20 21:00",
+            "end_time": "",
+            "price": "",
+            "details": {
+                "match": "Nouvelle-Zélande - Argentine"
             }
-        ],
-        "Concert": [
-            {
-                "event_name": "Chansons françaises",
-                "location": {
-                    "location_name": "Bar Basque",
-                    "location_address": "1 Rue Valade",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.603729,
-                    "location_lng": 1.439828,
-                    "location_instagram": "barbasquetoulouse"
-                },
-                "start_time": "19:00",
-                "end_time": "21:00",
-                "price": "Free",
-                "details": {
-                    "styles": [
-                        "chanson française"
-                    ],
-                    "artists": [
-                        "Jeanne Lachaise",
-                        "Pierre Montagne"
-                    ]
-                }
+        },
+        {
+            "event_name": "Diffusion Ligue 1",
+            "location": {
+                "location_name": "O'Clock Pub",
+                "location_address": "12 Rue de la Pomme",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.603862,
+                "location_lng": 1.440479,
+                "location_instagram": "oclockpub"
+            },
+            "start_time": "2023-10-21 17:00",
+            "end_time": "2023-10-21 19:00",
+            "price": "Free",
+            "details": {
+                "match": "Toulouse - Paris SG"
             }
-        ],
-        "Diffusion match": [
-            {
-                "event_name": "Diffusion Ligue 1",
-                "location": {
-                    "location_name": "O'Clock Pub",
-                    "location_address": "12 Rue de la Pomme",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.603862,
-                    "location_lng": 1.440479,
-                    "location_instagram": "oclockpub"
-                },
-                "start_time": "17:00",
-                "end_time": "19:00",
-                "price": "Free",
-                "details": {
-                    "match": "Toulouse - Paris SG"
-                }
+        }
+    ],
+    "Pièce de théâtre": [
+        {
+            "event_name": "L'écho des ruelles",
+            "location": {
+                "location_name": "Théâtre du Capitole",
+                "location_address": "Place du Capitole",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.604462,
+                "location_lng": 1.444246,
+                "location_instagram": "theatreducapitole"
+            },
+            "start_time": "2023-10-20 20:00",
+            "end_time": "2023-10-20 22:30",
+            "price": "20€",
+            "details": {
+                "genre": "Drame",
+                "directeur": "Luc Fontaine",
+                "acteurs": [
+                    "Marie Dupuis",
+                    "Paul Bertrand"
+                ]
             }
-        ],
-        "Pièce de théâtre": [
-            {
-                "event_name": "Les ombres du passé",
-                "location": {
-                    "location_name": "Théâtre des Mazades",
-                    "location_address": "10 Avenue des Mazades",
-                    "location_postcode": 31200,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.628137,
-                    "location_lng": 1.452087,
-                    "location_instagram": "theatredesmazades"
-                },
-                "start_time": "20:30",
-                "end_time": "23:00",
-                "price": "18€",
-                "details": {
-                    "genre": "Comédie",
-                    "directeur": "Sophie Valentin",
-                    "acteurs": [
-                        "Marc Vidal",
-                        "Lucie Durand"
-                    ]
-                }
+        },
+        {
+            "event_name": "Les ombres du passé",
+            "location": {
+                "location_name": "Théâtre des Mazades",
+                "location_address": "10 Avenue des Mazades",
+                "location_postcode": 31200,
+                "location_city": "Toulouse",
+                "location_lat": 43.628137,
+                "location_lng": 1.452087,
+                "location_instagram": "theatredesmazades"
+            },
+            "start_time": "2023-10-21 20:30",
+            "end_time": "2023-10-21 23:00",
+            "price": "18€",
+            "details": {
+                "genre": "Comédie",
+                "directeur": "Sophie Valentin",
+                "acteurs": [
+                    "Marc Vidal",
+                    "Lucie Durand"
+                ]
             }
-        ],
-        "Soirée à thème": [
-            {
-                "event_name": "Soirée vins & fromages",
-                "location": {
-                    "location_name": "Bar Ô Vin",
-                    "location_address": "5 Rue Saint-Antoine du T",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.602865,
-                    "location_lng": 1.443426,
-                    "location_instagram": "barovintoulouse"
-                },
-                "start_time": "19:00",
-                "end_time": "00:00",
-                "price": "20€",
-                "details": {
-                    "description": "Dégustation des vins régionaux et fromages locaux."
-                }
+        }
+    ],
+    "Soirée à thème": [
+        {
+            "event_name": "Nuit des étoiles",
+            "location": {
+                "location_name": "Observatoire de Jolimont",
+                "location_address": "17 Rue Jolimont",
+                "location_postcode": 31500,
+                "location_city": "Toulouse",
+                "location_lat": 43.6058967,
+                "location_lng": 1.4637383,
+                "location_instagram": "observatoirejolimont"
+            },
+            "start_time": "2023-10-20 20:00",
+            "end_time": "2023-10-21 00:00",
+            "price": "Free",
+            "details": {
+                "description": "Observez les étoiles et les planètes dans le ciel nocturne de Toulouse."
             }
-        ],
-        "Open air": [
-            {
-                "event_name": "Yoga en plein air",
-                "location": {
-                    "location_name": "Jardin des Plantes",
-                    "location_address": "Allée Jules Guesde",
-                    "location_postcode": 31000,
-                    "location_city": "Toulouse",
-                    "location_lat": 43.610230,
-                    "location_lng": 1.452800,
-                    "location_instagram": "jardindesplantestoulouse"
-                },
-                "start_time": "10:00",
-                "end_time": "11:30",
-                "price": "Free",
-                "details": {
-                    "instructeur": "Elise Martel"
-                }
+        },
+        {
+            "event_name": "Soirée vins & fromages",
+            "location": {
+                "location_name": "Bar Ô Vin",
+                "location_address": "5 Rue Saint-Antoine du T",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.602865,
+                "location_lng": 1.443426,
+                "location_instagram": "barovintoulouse"
+            },
+            "start_time": "2023-10-21 19:00",
+            "end_time": "2023-10-22 00:00",
+            "price": "20€",
+            "details": {
+                "description": "Dégustation des vins régionaux et fromages locaux."
             }
-        ]
-    }
+        }
+    ],
+    "Open air": [
+        {
+            "event_name": "Cinéma en plein air",
+            "location": {
+                "location_name": "Prairie des Filtres",
+                "location_address": "Allée de Brienne",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.597556,
+                "location_lng": 1.433223,
+                "location_instagram": "prairiedesfiltres"
+            },
+            "start_time": "2023-10-20 20:30",
+            "end_time": "2023-10-20 23:00",
+            "price": "Free",
+            "details": {
+                "film": "Les Amours d'un été"
+            }
+        },
+        {
+            "event_name": "Yoga en plein air",
+            "location": {
+                "location_name": "Jardin des Plantes",
+                "location_address": "Allée Jules Guesde",
+                "location_postcode": 31000,
+                "location_city": "Toulouse",
+                "location_lat": 43.610230,
+                "location_lng": 1.452800,
+                "location_instagram": "jardindesplantestoulouse"
+            },
+            "start_time": "2023-10-21 10:00",
+            "end_time": "2023-10-21 11:30",
+            "price": "Free",
+            "details": {
+                "instructeur": "Elise Martel"
+            }
+        }
+    ]
 }
