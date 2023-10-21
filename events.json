@@ -14,7 +14,7 @@
             "start_time": "2023-10-20 21:00",
             "end_time": "2023-10-21 02:00",
             "price": "10€",
-            "details": {
+            "event_event_details": {
                 "styles": [
                     "disco",
                     "house",
@@ -40,7 +40,7 @@
             "start_time": "2023-10-20 22:00",
             "end_time": "2023-10-21 04:00",
             "price": "15€",
-            "details": {
+            "event_event_details": {
                 "styles": [
                     "techno",
                     "electro"
@@ -65,7 +65,7 @@
             "start_time": "2023-10-21 20:00",
             "end_time": "2023-10-22 01:00",
             "price": "5€",
-            "details": {
+            "event_details": {
                 "styles": [
                     "salsa",
                     "latin"
@@ -92,7 +92,7 @@
             "start_time": "2023-10-20 20:00",
             "end_time": "2023-10-20 23:00",
             "price": "30€",
-            "details": {
+            "event_details": {
                 "styles": [
                     "classique"
                 ],
@@ -116,7 +116,7 @@
             "start_time": "2023-10-20 19:30",
             "end_time": "2023-10-21 00:00",
             "price": "25€",
-            "details": {
+            "event_details": {
                 "styles": [
                     "rock",
                     "pop"
@@ -141,7 +141,7 @@
             "start_time": "2023-10-21 19:00",
             "end_time": "2023-10-21 21:00",
             "price": "Free",
-            "details": {
+            "event_details": {
                 "styles": [
                     "chanson française"
                 ],
@@ -167,7 +167,7 @@
             "start_time": "2023-10-20 21:00",
             "end_time": "",
             "price": "",
-            "details": {
+            "event_details": {
                 "match": "Nouvelle-Zélande - Argentine"
             }
         },
@@ -185,7 +185,7 @@
             "start_time": "2023-10-21 17:00",
             "end_time": "2023-10-21 19:00",
             "price": "Free",
-            "details": {
+            "event_details": {
                 "match": "Toulouse - Paris SG"
             }
         }
@@ -205,7 +205,7 @@
             "start_time": "2023-10-20 20:00",
             "end_time": "2023-10-20 22:30",
             "price": "20€",
-            "details": {
+            "event_details": {
                 "genre": "Drame",
                 "directeur": "Luc Fontaine",
                 "acteurs": [
@@ -228,7 +228,7 @@
             "start_time": "2023-10-21 20:30",
             "end_time": "2023-10-21 23:00",
             "price": "18€",
-            "details": {
+            "event_details": {
                 "genre": "Comédie",
                 "directeur": "Sophie Valentin",
                 "acteurs": [
@@ -253,7 +253,7 @@
             "start_time": "2023-10-20 20:00",
             "end_time": "2023-10-21 00:00",
             "price": "Free",
-            "details": {
+            "event_details": {
                 "description": "Observez les étoiles et les planètes dans le ciel nocturne de Toulouse."
             }
         },
@@ -271,7 +271,7 @@
             "start_time": "2023-10-21 19:00",
             "end_time": "2023-10-22 00:00",
             "price": "20€",
-            "details": {
+            "event_details": {
                 "description": "Dégustation des vins régionaux et fromages locaux."
             }
         }
@@ -291,7 +291,7 @@
             "start_time": "2023-10-20 20:30",
             "end_time": "2023-10-20 23:00",
             "price": "Free",
-            "details": {
+            "event_details": {
                 "film": "Les Amours d'un été"
             }
         },
@@ -309,7 +309,7 @@
             "start_time": "2023-10-21 10:00",
             "end_time": "2023-10-21 11:30",
             "price": "Free",
-            "details": {
+            "event_details": {
                 "instructeur": "Elise Martel"
             }
         }
