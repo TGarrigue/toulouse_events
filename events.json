@@ -15,7 +15,7 @@
             "start_time": "2023-10-20 21:00",
             "end_time": "2023-10-21 02:00",
             "price": "10€",
-            "event_event_details": {
+            "event_details": {
                 "styles": [
                     "disco",
                     "house",
@@ -42,7 +42,7 @@
             "start_time": "2023-10-20 22:00",
             "end_time": "2023-10-21 04:00",
             "price": "15€",
-            "event_event_details": {
+            "event_details": {
                 "styles": [
                     "techno",
                     "electro"
