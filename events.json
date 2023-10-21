@@ -2,6 +2,7 @@
     "Dj set": [
         {
             "event_name": "Funky Party",
+            "event_id": "64d62ce19ec9889ca58839a6",
             "location": {
                 "location_name": "Connexion",
                 "location_address": "8 Rue Gabriel Péri",
@@ -28,6 +29,7 @@
         },
         {
             "event_name": "Electro Night",
+            "event_id": "64d62ce19ec9889ca58839a5",
             "location": {
                 "location_name": "Metronum",
                 "location_address": "Rond-Point Madame de Mondonville",
@@ -53,6 +55,7 @@
         },
         {
             "event_name": "Salsa Night",
+            "event_id": "64d62ce19ec9889ca58839a7",
             "location": {
                 "location_name": "La Dernière Chance",
                 "location_address": "14 Rue des Sept Troubadours",
@@ -80,6 +83,7 @@
     "Concert": [
         {
             "event_name": "Symphonie en Rose",
+            "event_id": "64d62ce19ec9889ca58879a6",
             "location": {
                 "location_name": "Halle aux Grains",
                 "location_address": "1 Place Dupuy",
@@ -104,6 +108,7 @@
         },
         {
             "event_name": "Rock Toulousain",
+            "event_id": "64d62ce19ec5889ca58839a6",
             "location": {
                 "location_name": "Bikini",
                 "location_address": "Rue Théodore Monod",
@@ -129,6 +134,7 @@
         },
         {
             "event_name": "Chansons françaises",
+            "event_id": "64d62ce19ec9889ca58455a6",
             "location": {
                 "location_name": "Bar Basque",
                 "location_address": "1 Rue Valade",
@@ -155,6 +161,7 @@
     "Diffusion match": [
         {
             "event_name": "Diffusion coupe du monde",
+            "event_id": "64d62ce19ef9889ca58839a6",
             "location": {
                 "location_name": "Le péri",
                 "location_address": "Rue Jeanne d'Arc",
@@ -173,6 +180,7 @@
         },
         {
             "event_name": "Diffusion Ligue 1",
+            "event_id": "64d62ce10ec9889ca58839a6",
             "location": {
                 "location_name": "O'Clock Pub",
                 "location_address": "12 Rue de la Pomme",
@@ -193,6 +201,7 @@
     "Pièce de théâtre": [
         {
             "event_name": "L'écho des ruelles",
+            "event_id": "64d62ce19eb6889ca58839a6",
             "location": {
                 "location_name": "Théâtre du Capitole",
                 "location_address": "Place du Capitole",
@@ -216,6 +225,7 @@
         },
         {
             "event_name": "Les ombres du passé",
+            "event_id": "64d62ce19ec9889ca58339a6",
             "location": {
                 "location_name": "Théâtre des Mazades",
                 "location_address": "10 Avenue des Mazades",
@@ -241,6 +251,7 @@
     "Soirée à thème": [
         {
             "event_name": "Nuit des étoiles",
+            "event_id": "64d62ce19ec7689ca58839a6",
             "location": {
                 "location_name": "Observatoire de Jolimont",
                 "location_address": "17 Rue Jolimont",
@@ -259,6 +270,7 @@
         },
         {
             "event_name": "Soirée vins & fromages",
+            "event_id": "64d62ce19ec9889ca76839a6",
             "location": {
                 "location_name": "Bar Ô Vin",
                 "location_address": "5 Rue Saint-Antoine du T",
@@ -279,6 +291,7 @@
     "Open air": [
         {
             "event_name": "Cinéma en plein air",
+            "event_id": "64d62ce19ec9889ca98839a6",
             "location": {
                 "location_name": "Prairie des Filtres",
                 "location_address": "Allée de Brienne",
@@ -297,6 +310,7 @@
         },
         {
             "event_name": "Yoga en plein air",
+            "event_id": "64d62ce19ec9889ca58839a0",
             "location": {
                 "location_name": "Jardin des Plantes",
                 "location_address": "Allée Jules Guesde",
